@@ -6,3 +6,5 @@ The project is using pre-trained model distilBERT, due to its lightness and effi
 I am using MBIC media bias dataset to train the model.
 
 It is currently able to reach 67-70% accuracy using the test dataset.
+
+Creacted using Google Colab.
